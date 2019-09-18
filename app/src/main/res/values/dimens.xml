@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimens_padding_left">10dp</dimen>
+    <dimen name="dimens_padding_right">10dp</dimen>
+    <dimen name="dimens_padding_top">10dp</dimen>
+    <dimen name="dimens_padding_bottom">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+</resources>

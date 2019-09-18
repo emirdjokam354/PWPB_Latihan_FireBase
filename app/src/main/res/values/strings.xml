@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan_FireBase</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Folk</item>
+    </array>
+</resources>
